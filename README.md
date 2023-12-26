@@ -9,6 +9,7 @@ Description: The dataset contains demographic information, such as age, educatio
 
 Attributes:
 Age: Age of the individual.
+
 Workclass: Type of employment (e.g., Private, Self-emp-not-inc, Local-gov).
 Education: Highest level of education achieved.
 Occupation: Type of occupation.
