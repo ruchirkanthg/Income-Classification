@@ -8,19 +8,20 @@ URL: UCI Adult dataset
 Description: The dataset contains demographic information, such as age, education, occupation, and marital status, among other attributes. The target variable is binary and indicates whether an individual earns more than $50,000 annually (positive class) or not (negative class).
 
 Attributes:
-Age: Age of the individual.
 
-Workclass: Type of employment (e.g., Private, Self-emp-not-inc, Local-gov).
-Education: Highest level of education achieved.
-Occupation: Type of occupation.
-Marital Status: Marital status of the individual.
-Relationship: Relationship status in the family.
-Race: Race of the individual.
-Sex: Gender of the individual.
-Capital Gain: Capital gains earned by the individual.
-Capital Loss: Capital losses incurred by the individual.
-Hours per Week: Average number of working hours per week.
-Native Country: Country of origin.
+1) Age: Age of the individual.
+2) Workclass: Type of employment (e.g., Private, Self-emp-not-inc, Local-gov).
+3) Education: Highest level of education achieved.
+4) Occupation: Type of occupation.
+5) Marital Status: Marital status of the individual.
+6) Relationship: Relationship status in the family.
+7) Race: Race of the individual.
+8) Sex: Gender of the individual.
+9) Capital Gain: Capital gains earned by the individual.
+10) Capital Loss: Capital losses incurred by the individual.
+11) Hours per Week: Average number of working hours per week.
+12) Native Country: Country of origin.
+
 Target Variable:
 Income: Binary variable indicating whether the individual earns more than $50,000 annually (positive class) or not (negative class).
 
